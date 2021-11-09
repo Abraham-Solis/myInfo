@@ -3,6 +3,7 @@
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif);
   background-size: cover;
+  min-height: (100vh-120px);
 }
 
 body {
