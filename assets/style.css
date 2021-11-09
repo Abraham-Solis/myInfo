@@ -13,11 +13,6 @@ body {
   font-size: x-large;
 }
 
-a:visited {
-  color: #FCA311;
-}
-
-
 .card-body {
   color: #FCA311;
 }
@@ -36,6 +31,14 @@ a:visited {
   font-size: 25px;
   width: 30px;
   height: 60px;
+}
+
+label {
+  font-family: "Hind";
+  color: #FCA311;
+  text-shadow: 2px 2px 4px #000000;
+  font-weight: bolder;
+  font-size: x-large;
 }
 
 .footerContainer {
