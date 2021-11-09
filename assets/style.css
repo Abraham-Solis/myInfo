@@ -29,7 +29,7 @@ body {
   transition: all .03s ease;
   color: #FCA311;
   font-size: 25px;
-  width: 30px;
+  width: 15px;
   height: 60px;
 }
 
@@ -39,6 +39,14 @@ label {
   text-shadow: 2px 2px 4px #000000;
   font-weight: bolder;
   font-size: x-large;
+}
+
+.nav-link {
+  color: #FCA311;
+}
+
+.nav-link:hover {
+  color: #E5E5E5;
 }
 
 .footerContainer {
