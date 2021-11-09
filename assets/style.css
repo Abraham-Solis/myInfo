@@ -17,6 +17,27 @@ a:visited {
   color: #FCA311;
 }
 
+
+.card-body {
+  color: #FCA311;
+}
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  transition: all .03s ease;
+  color: #FCA311;
+  font-size: 25px;
+  width: 30px;
+  height: 60px;
+}
+
 .footerContainer {
   display: flex;
   flex-wrap: wrap;
@@ -32,8 +53,4 @@ a:visited {
   background-color: rgba(0, 0, 0, 0.5);
   font-size: 15px;
   color: #EAE8FF;
-}
-
-.card-body {
-  color: #FCA311;
 }
