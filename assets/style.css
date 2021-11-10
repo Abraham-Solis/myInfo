@@ -68,7 +68,8 @@ label {
   font-size: 15px;
   color: #EAE8FF;
 }
-footer{
+
+footer {
   flex-grow: 0;
   justify-content: center;
 }
@@ -77,4 +78,3 @@ footer{
   display: flex;
   justify-content: center;
 }
-
